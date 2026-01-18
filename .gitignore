@@ -1,0 +1,11 @@
+# Binaries for programs and plugins
+*.exe
+*.json
+
+# IDEs directories
+.vscode
+
+# logs and saves
+logs
+cmd/simplePortForwarding/logs/
+cmd/simplePortForwarding/config.json
